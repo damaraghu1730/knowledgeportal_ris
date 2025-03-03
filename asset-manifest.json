@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/knowledgeportal_ris/static/css/main.1fc3e3fa.css",
-    "main.js": "/knowledgeportal_ris/static/js/main.1acbef65.js",
+    "main.js": "/knowledgeportal_ris/static/js/main.ba6dfcb2.js",
     "static/js/453.3a8b2cbb.chunk.js": "/knowledgeportal_ris/static/js/453.3a8b2cbb.chunk.js",
     "static/media/Image4.jpg": "/knowledgeportal_ris/static/media/Image4.1956d2bbd16f50b44fd3.jpg",
     "static/media/img4.jpg": "/knowledgeportal_ris/static/media/img4.dbd9b5ac52741413f607.jpg",
@@ -13,11 +13,11 @@
     "static/media/rislogo.png": "/knowledgeportal_ris/static/media/rislogo.c34920d8375c446764ab.png",
     "index.html": "/knowledgeportal_ris/index.html",
     "main.1fc3e3fa.css.map": "/knowledgeportal_ris/static/css/main.1fc3e3fa.css.map",
-    "main.1acbef65.js.map": "/knowledgeportal_ris/static/js/main.1acbef65.js.map",
+    "main.ba6dfcb2.js.map": "/knowledgeportal_ris/static/js/main.ba6dfcb2.js.map",
     "453.3a8b2cbb.chunk.js.map": "/knowledgeportal_ris/static/js/453.3a8b2cbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fc3e3fa.css",
-    "static/js/main.1acbef65.js"
+    "static/js/main.ba6dfcb2.js"
   ]
 }
